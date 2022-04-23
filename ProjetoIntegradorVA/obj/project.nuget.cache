@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Yc2PuH5Iu3Pj3cGnlqeb+5eiLP7uZLuhKJ70ycHzfVj06QwT1hWOrHAk4d7XgEIGAmVcVEYUzh9wl2dWdLgvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robso\\Documents\\GitHub\\ProjetoIntegradorVA\\ProjetoIntegradorVA\\ProjetoIntegradorVA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
