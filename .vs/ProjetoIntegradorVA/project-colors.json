@@ -15,7 +15,12 @@
       "ProjectGuid": "5dbbea05-4e63-4752-b279-7c0f541d7add",
       "DisplayName": "Testes",
       "ColorIndex": 1
+    },
+    "80ae83d1-ea60-4127-8f8b-7477d2f2bcba": {
+      "ProjectGuid": "80ae83d1-ea60-4127-8f8b-7477d2f2bcba",
+      "DisplayName": "EdgeDriverTest1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
